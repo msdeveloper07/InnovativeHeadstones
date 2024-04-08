@@ -1,0 +1,9 @@
+# Ignore specific file
+.env
+
+# Ignore all files in a directory
+/vendor/
+/public/
+
+# Ignore all .log files
+*.env
